@@ -1,0 +1,258 @@
+2024-07-11 14:53:14.788 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-11 14:53:14.788 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-11 14:53:14.788 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-07-11 14:53:14.788 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-11 14:53:14.788 [info] Experiment 'pythonTestAdapter' is active
+2024-07-11 14:53:14.788 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/home/myile/.pixi/envs'
+	at Object.readdirSync (node:fs:1515:26)
+	at /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574598
+	at /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574789
+	at Array.map (<anonymous>)
+	at d.initWatchers (/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574507)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async d.ensureWatchersReady (/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:536827)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/myile/.pixi/envs'
+}
+2024-07-11 14:53:14.788 [error] Dir "/home/myile/.pixi/envs" is not watchable (directory does not exist)
+2024-07-11 14:53:14.788 [info] Default formatter is set to null for workspace /home/myile
+2024-07-11 14:53:14.788 [info] Starting Environment refresh
+2024-07-11 14:53:14.817 [info] > pixi --version
+2024-07-11 14:53:14.818 [error] [Error: spawn pixi EACCES
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-07-11 14:53:14.842 [info] > hatch env show --json
+2024-07-11 14:53:14.842 [info] cwd: .
+2024-07-11 14:53:14.851 [info] > pyenv which python
+2024-07-11 14:53:14.851 [info] cwd: .
+2024-07-11 14:53:14.928 [info] Environments refresh finished (event): 459 milliseconds
+2024-07-11 14:53:14.928 [info] Environments refresh paths discovered: 459 milliseconds
+2024-07-11 14:53:14.931 [info] Environment refresh took 462 milliseconds
+2024-07-11 14:53:14.932 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:14.947 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:14.952 [info] > python -c "import sys;print(sys.executable)"
+2024-07-11 14:53:14.975 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: 1: python: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:337:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2024-07-11 14:53:14.999 [info] > pyenv which python
+2024-07-11 14:53:14.999 [info] cwd: .
+2024-07-11 14:53:15.026 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:15.061 [info] Shell integration status changed, can confirm it's working.
+2024-07-11 14:53:15.062 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:15.073 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:15.077 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:15.876 [info] Starting Pylance language server.
+2024-07-11 14:53:15.881 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:15.886 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:15.954 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:15.955 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:15.960 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:15.964 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 14:53:20.471 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 15:29:57.428 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 15:29:57.434 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 15:31:32.771 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 15:31:35.970 [info] Starting Environment refresh
+2024-07-11 15:31:35.970 [info] Searching for interpreters in posix paths locator
+2024-07-11 15:31:35.971 [info] Searching for pyenv environments
+2024-07-11 15:31:35.971 [info] Searching for conda environments
+2024-07-11 15:31:35.971 [info] Searching for global virtual environments
+2024-07-11 15:31:35.972 [info] Searching for custom virtual environments
+2024-07-11 15:31:35.995 [info] > conda info --json
+2024-07-11 15:31:35.996 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 15:31:35.998 [info] pyenv is not installed
+2024-07-11 15:31:35.998 [info] Finished searching for pyenv environments: 28 milliseconds
+2024-07-11 15:31:35.999 [info] Finished searching for custom virtual envs: 28 milliseconds
+2024-07-11 15:31:36.000 [info] Finished searching for global virtual envs: 29 milliseconds
+2024-07-11 15:31:36.006 [info] Found: /bin/python2 --> /bin/python2.7
+2024-07-11 15:31:36.006 [info] Found: /bin/python2.7 --> /bin/python2.7
+2024-07-11 15:31:36.007 [info] Found: /bin/python3 --> /bin/python3.8
+2024-07-11 15:31:36.007 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-07-11 15:31:36.030 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2024-07-11 15:31:36.030 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2024-07-11 15:31:36.031 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2024-07-11 15:31:36.031 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-07-11 15:31:36.116 [info] > /bin/python2 -I ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-11 15:31:36.119 [warning] [Error: Command failed: /bin/python2 -I /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+Unknown option: -I
+usage: /bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:305:5)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/bin/python2 -I /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py'
+}
+2024-07-11 15:31:36.119 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-07-11 15:31:36.122 [info] > /bin/python2 ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-11 15:31:36.132 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-11 15:31:36.148 [info] Finished searching for interpreters in posix paths locator: 178 milliseconds
+2024-07-11 15:31:36.148 [info] > /usr/bin/python2 -I ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-11 15:31:36.151 [warning] [Error: Command failed: /usr/bin/python2 -I /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:337:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python2 -I /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py'
+}
+2024-07-11 15:31:36.151 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-07-11 15:31:36.154 [info] > /usr/bin/python2 ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-11 15:31:36.168 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-11 15:31:36.168 [info] Environments refresh paths discovered (event): 201 milliseconds
+2024-07-11 15:31:36.168 [info] Environments refresh paths discovered: 201 milliseconds
+2024-07-11 15:31:36.190 [info] Environments refresh finished (event): 222 milliseconds
+2024-07-11 15:31:36.193 [info] Environment refresh took 227 milliseconds
+2024-07-11 15:31:47.437 [info] Selected workspace /home/myile for creating virtual environment.
+2024-07-11 15:31:47.440 [warning] could not find a pixi interpreter for the interpreter at python
+2024-07-11 15:31:51.213 [info] Selected interpreter /bin/python3 for creating virtual environment.
+2024-07-11 15:31:56.185 [info] Running Env creation script:  [
+  '/bin/python3',
+  '/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/create_venv.py',
+  '--git-ignore',
+  '--requirements',
+  '/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt',
+  '--requirements',
+  '/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt'
+]
+2024-07-11 15:31:56.185 [info] > /bin/python3 ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/create_venv.py --git-ignore --requirements ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt --requirements ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt
+2024-07-11 15:31:56.185 [info] cwd: .
+2024-07-11 15:31:56.232 [info] Running: /bin/python3 -m venv --without-pip .venv
+2024-07-11 15:31:56.259 [info] CREATED_VENV:/home/myile/.venv/bin/python
+2024-07-11 15:31:56.260 [info] Creating: /home/myile/.venv/.gitignore
+CREATE_VENV.DOWNLOADING_PIP
+2024-07-11 15:31:56.951 [info] CREATE_VENV.INSTALLING_PIP
+Running: /home/myile/.venv/bin/python /home/myile/.venv/pip.pyz install pip
+2024-07-11 15:31:57.404 [info] > ./.venv/bin/python -I ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-11 15:31:57.404 [info] Environments refresh paths discovered: 10 milliseconds
+2024-07-11 15:31:57.420 [info] Environments refresh finished (event): 26 milliseconds
+2024-07-11 15:31:57.872 [info] Collecting pip
+2024-07-11 15:31:57.943 [info]   Downloading pip-24.1.2-py3-none-any.whl.metadata (3.6 kB)
+2024-07-11 15:31:57.965 [info] Downloading pip-24.1.2-py3-none-any.whl (1.8 MB)
+2024-07-11 15:31:58.231 [info]    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 MB 6.9 MB/s eta 0:00:00
+2024-07-11 15:31:58.231 [info] 
+2024-07-11 15:31:58.240 [info] Installing collected packages: pip
+2024-07-11 15:31:58.765 [info] Successfully installed pip-24.1.2
+2024-07-11 15:31:58.887 [info] VENV_INSTALLING_REQUIREMENTS: ['/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt', '/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt']
+VENV_INSTALLING_REQUIREMENTS: /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt
+Running: /home/myile/.venv/bin/python -m pip install -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt
+2024-07-11 15:31:59.225 [info] Collecting importlib-metadata==8.0.0 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt (line 7))
+2024-07-11 15:31:59.246 [info]   Downloading importlib_metadata-8.0.0-py3-none-any.whl (24 kB)
+2024-07-11 15:31:59.459 [info] Collecting microvenv==2023.5.post1 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt (line 11))
+2024-07-11 15:31:59.467 [info]   Downloading microvenv-2023.5.post1-py3-none-any.whl (8.2 kB)
+2024-07-11 15:31:59.531 [info] Collecting packaging==24.1 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt (line 15))
+2024-07-11 15:31:59.541 [info]   Downloading packaging-24.1-py3-none-any.whl (53 kB)
+2024-07-11 15:31:59.561 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 54.0/54.0 kB 2.7 MB/s eta 0:00:00
+2024-07-11 15:31:59.562 [info] 
+2024-07-11 15:31:59.589 [info] Collecting tomli==2.0.1 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt (line 19))
+2024-07-11 15:31:59.595 [info]   Downloading tomli-2.0.1-py3-none-any.whl (12 kB)
+2024-07-11 15:31:59.656 [info] Collecting typing-extensions==4.12.2 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt (line 23))
+2024-07-11 15:31:59.666 [info]   Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+2024-07-11 15:31:59.722 [info] Collecting zipp==3.19.2 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/requirements.txt (line 27))
+2024-07-11 15:31:59.729 [info]   Downloading zipp-3.19.2-py3-none-any.whl (9.0 kB)
+2024-07-11 15:31:59.760 [info] Installing collected packages: zipp, typing-extensions, tomli, packaging, microvenv, importlib-metadata
+2024-07-11 15:31:59.891 [info] Successfully installed importlib-metadata-8.0.0 microvenv-2023.5.post1 packaging-24.1 tomli-2.0.1 typing-extensions-4.12.2 zipp-3.19.2
+2024-07-11 15:31:59.933 [info] VENV_INSTALLING_REQUIREMENTS: /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt
+Running: /home/myile/.venv/bin/python -m pip install -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt
+2024-07-11 15:32:00.232 [info] Collecting attrs==23.1.0 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 7))
+2024-07-11 15:32:00.253 [info]   Downloading attrs-23.1.0-py3-none-any.whl (61 kB)
+2024-07-11 15:32:00.277 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.2/61.2 kB 2.5 MB/s eta 0:00:00
+2024-07-11 15:32:00.277 [info] 
+2024-07-11 15:32:00.315 [info] Collecting cattrs==23.1.2 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 13))
+2024-07-11 15:32:00.323 [info]   Downloading cattrs-23.1.2-py3-none-any.whl (50 kB)
+2024-07-11 15:32:00.348 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 50.8/50.8 kB 2.0 MB/s eta 0:00:00
+2024-07-11 15:32:00.348 [info] 
+2024-07-11 15:32:00.545 [info] Collecting docstring-to-markdown==0.12 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 19))
+2024-07-11 15:32:00.553 [info]   Downloading docstring_to_markdown-0.12-py3-none-any.whl (18 kB)
+2024-07-11 15:32:00.600 [info] Collecting exceptiongroup==1.1.3 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 23))
+2024-07-11 15:32:00.609 [info]   Downloading exceptiongroup-1.1.3-py3-none-any.whl (14 kB)
+2024-07-11 15:32:00.685 [info] Collecting importlib-metadata==6.8.0 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 27))
+2024-07-11 15:32:00.693 [info]   Downloading importlib_metadata-6.8.0-py3-none-any.whl (22 kB)
+2024-07-11 15:32:00.746 [info] Collecting jedi==0.19.1 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 31))
+2024-07-11 15:32:00.754 [info]   Downloading jedi-0.19.1-py2.py3-none-any.whl (1.6 MB)
+2024-07-11 15:32:01.031 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.6/1.6 MB 5.7 MB/s eta 0:00:00
+2024-07-11 15:32:01.031 [info] 
+2024-07-11 15:32:01.254 [info] Collecting jedi-language-server==0.41.1 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 35))
+2024-07-11 15:32:01.262 [info]   Downloading jedi_language_server-0.41.1-py3-none-any.whl (27 kB)
+2024-07-11 15:32:01.304 [info] Collecting lsprotocol==2023.0.0b1 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 39))
+2024-07-11 15:32:01.311 [info]   Downloading lsprotocol-2023.0.0b1-py3-none-any.whl (70 kB)
+2024-07-11 15:32:01.331 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 70.6/70.6 kB 4.0 MB/s eta 0:00:00
+2024-07-11 15:32:01.331 [info] 
+2024-07-11 15:32:01.366 [info] Collecting parso==0.8.3 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 45))
+2024-07-11 15:32:01.378 [info]   Downloading parso-0.8.3-py2.py3-none-any.whl (100 kB)
+2024-07-11 15:32:01.400 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100.8/100.8 kB 5.1 MB/s eta 0:00:00
+2024-07-11 15:32:01.433 [info] Collecting pygls==1.0.2 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 49))
+2024-07-11 15:32:01.450 [info]   Downloading pygls-1.0.2-py3-none-any.whl (38 kB)
+2024-07-11 15:32:01.511 [info] Collecting typeguard==3.0.2 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 55))
+2024-07-11 15:32:01.520 [info]   Downloading typeguard-3.0.2-py3-none-any.whl (30 kB)
+2024-07-11 15:32:01.568 [info] Collecting typing-extensions==4.8.0 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 59))
+2024-07-11 15:32:01.574 [info]   Downloading typing_extensions-4.8.0-py3-none-any.whl (31 kB)
+2024-07-11 15:32:01.624 [info] Collecting zipp==3.17.0 (from -r /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/jedilsp_requirements/requirements.txt (line 66))
+2024-07-11 15:32:01.633 [info]   Downloading zipp-3.17.0-py3-none-any.whl (7.4 kB)
+2024-07-11 15:32:01.745 [info] Installing collected packages: zipp, typing-extensions, parso, exceptiongroup, docstring-to-markdown, attrs, jedi, importlib-metadata, cattrs, typeguard, lsprotocol, pygls, jedi-language-server
+2024-07-11 15:32:01.745 [info]   Attempting uninstall: zipp
+2024-07-11 15:32:01.747 [info]     Found existing installation: zipp 3.19.2
+2024-07-11 15:32:01.747 [info]     Uninstalling zipp-3.19.2:
+2024-07-11 15:32:01.748 [info]       Successfully uninstalled zipp-3.19.2
+2024-07-11 15:32:01.765 [info]   Attempting uninstall: typing-extensions
+2024-07-11 15:32:01.765 [info]     Found existing installation: typing_extensions 4.12.2
+2024-07-11 15:32:01.767 [info]     Uninstalling typing_extensions-4.12.2:
+2024-07-11 15:32:01.770 [info]       Successfully uninstalled typing_extensions-4.12.2
+2024-07-11 15:32:02.239 [info]   Attempting uninstall: importlib-metadata
+2024-07-11 15:32:02.239 [info]     Found existing installation: importlib_metadata 8.0.0
+2024-07-11 15:32:02.241 [info]     Uninstalling importlib_metadata-8.0.0:
+2024-07-11 15:32:02.242 [info]       Successfully uninstalled importlib_metadata-8.0.0
+2024-07-11 15:32:02.456 [info] Successfully installed attrs-23.1.0 cattrs-23.1.2 docstring-to-markdown-0.12 exceptiongroup-1.1.3 importlib-metadata-6.8.0 jedi-0.19.1 jedi-language-server-0.41.1 lsprotocol-2023.0.0b1 parso-0.8.3 pygls-1.0.2 typeguard-3.0.2 typing-extensions-4.8.0 zipp-3.17.0
+2024-07-11 15:32:02.516 [info] CREATE_VENV.PIP_INSTALLED_REQUIREMENTS
+2024-07-11 15:32:02.578 [info] Discover tests for workspace name: myile - uri: /home/myile
+2024-07-11 15:32:02.578 [warning] could not find a pixi interpreter for the interpreter at /home/myile/.venv/bin/python
+2024-07-11 15:32:02.579 [info] Python interpreter path: ./.venv/bin/python
+2024-07-11 15:32:02.589 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariables.py
+2024-07-11 15:32:02.589 [info] shell: bash
+2024-07-11 15:32:02.615 [info] > /bin/python2 ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariables.py
+2024-07-11 15:32:02.615 [info] shell: bash
+2024-07-11 15:32:02.627 [info] Setting environment variable VIRTUAL_ENV in collection to /home/myile/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-11 15:32:02.627 [info] Prepending environment variable PS1 in collection with (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-07-11 15:32:02.627 [info] Prepending environment variable PATH in collection with /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash:/home/myile/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-11 15:32:02.628 [info] Send text to terminal: /bin/python2 /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariablesToFile.py /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-07-11 15:32:15.301 [info] CreateEnv Trigger - Workspace not found for Untitled-1
+2024-07-11 15:32:18.056 [info] Send text to terminal: /home/myile/.venv/bin/python "/home/myile/import machine.py"
+2024-07-11 15:32:18.139 [info] Discover tests for workspace name: myile - uri: /home/myile/import machine.py
+2024-07-11 15:32:32.629 [error] Failed to initialize deactivate script /bin/bash [Error: "/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash/envVars.txt" file not created
+	at Timeout.<anonymous> (/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:281720)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)]
+2024-07-11 15:32:52.270 [info] Send text to terminal: /home/myile/.venv/bin/python "/home/myile/import machine.py"
+2024-07-11 15:32:52.512 [info] Discover tests for workspace name: myile - uri: /home/myile/import machine.py

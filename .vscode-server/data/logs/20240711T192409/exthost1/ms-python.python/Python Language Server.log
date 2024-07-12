@@ -1,0 +1,19 @@
+2024-07-11 19:24:13.761 [info] (Client) Pylance async client (2024.7.1) started with python extension (2024.10.0)
+2024-07-11 19:24:14.301 [info] [Info  - 7:24:14 PM] (16618) Pylance language server 2024.7.1 (pyright version 1.1.369, commit 1168be71) starting
+2024-07-11 19:24:14.306 [info] [Info  - 7:24:14 PM] (16618) Server root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-11 19:24:14.308 [info] [Info  - 7:24:14 PM] (16618) Starting service instance "myile"
+2024-07-11 19:24:14.376 [info] [Info  - 7:24:14 PM] (16618) Setting pythonPath for service "myile": "/home/myile/.venv/bin/python"
+2024-07-11 19:24:14.376 [info] [Info  - 7:24:14 PM] (16618) Setting environmentName for service "myile": "3.8.10 (.venv venv)"
+2024-07-11 19:24:14.377 [info] [Info  - 7:24:14 PM] (16618) No include entries specified; assuming /home/myile
+2024-07-11 19:24:14.377 [info] [Info  - 7:24:14 PM] (16618) Auto-excluding **/node_modules
+2024-07-11 19:24:14.378 [info] [Info  - 7:24:14 PM] (16618) Auto-excluding **/__pycache__
+2024-07-11 19:24:14.379 [info] [Info  - 7:24:14 PM] (16618) Auto-excluding **/.*
+2024-07-11 19:24:14.398 [info] [Info  - 7:24:14 PM] (16618) Assuming Python version 3.8.10.final.0
+2024-07-11 19:24:14.588 [info] [Info  - 7:24:14 PM] (16618) Found 19 source files
+2024-07-11 19:24:14.907 [info] [Info  - 7:24:14 PM] (16618) Background analysis(1) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-11 19:24:14.909 [info] [Info  - 7:24:14 PM] (16618) Background analysis(1) started
+2024-07-11 19:24:15.190 [info] [Info  - 7:24:15 PM] (16618) Indexer background runner(2) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-11 19:24:15.190 [info] [Info  - 7:24:15 PM] (16618) Indexing(2) started
+2024-07-11 19:24:15.870 [info] [Info  - 7:24:15 PM] (16618) scanned(2) 385 files over 1 exec env
+2024-07-11 19:24:16.239 [info] [Info  - 7:24:16 PM] (16618) indexed(2) 148 files over 1 exec env
+2024-07-11 19:24:16.303 [info] [Info  - 7:24:16 PM] (16618) Indexing finished(2).

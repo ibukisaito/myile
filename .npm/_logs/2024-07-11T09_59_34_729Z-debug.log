@@ -1,0 +1,31 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', 'v20.15.0' ]
+2 info using npm@6.14.4
+3 info using node@v10.19.0
+4 verbose config Skipping project config: /home/myile/.npmrc. (matches userconfig)
+5 verbose npm-session 4910059d9be4ae34
+6 silly install loadCurrentTree
+7 silly install readLocalPackageData
+8 http fetch GET 404 https://registry.npmjs.org/v20.15.0 525ms
+9 http fetch GET 404 https://registry.npmjs.org/v20.15.0 443ms
+10 silly fetchPackageMetaData error for v20.15.0@latest 404 Not Found - GET https://registry.npmjs.org/v20.15.0 - Not found
+11 timing stage:rollbackFailedOptional Completed in 0ms
+12 timing stage:runTopLevelLifecycles Completed in 988ms
+13 verbose stack Error: 404 Not Found - GET https://registry.npmjs.org/v20.15.0 - Not found
+13 verbose stack     at res.buffer.catch.then.body (/usr/share/npm/node_modules/npm-registry-fetch/check-response.js:104:15)
+13 verbose stack     at process._tickCallback (internal/process/next_tick.js:68:7)
+14 verbose statusCode 404
+15 verbose pkgid v20.15.0@latest
+16 verbose cwd /home/myile
+17 verbose Linux 5.4.72-microsoft-standard-WSL2
+18 verbose argv "/usr/bin/node" "/usr/bin/npm" "install" "v20.15.0"
+19 verbose node v10.19.0
+20 verbose npm  v6.14.4
+21 error code E404
+22 error 404 Not Found - GET https://registry.npmjs.org/v20.15.0 - Not found
+23 error 404
+24 error 404 'v20.15.0@latest' is not in the npm registry.
+25 error 404 You should bug the author to publish it (or use the name yourself!)
+26 error 404 Note that you can also install from a
+27 error 404 tarball, folder, http url, or git url.
+28 verbose exit [ 1, true ]

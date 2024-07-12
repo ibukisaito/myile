@@ -1,0 +1,21 @@
+2024-07-11 19:24:12.128 [info] Starting Python Locator /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python-env-tools/bin/pet server
+2024-07-11 19:24:12.778 [info] Started Refreshing Environments
+2024-07-11 19:24:12.787 [info] Discovered env: /usr/bin/python3
+2024-07-11 19:24:12.788 [info] Discovered env: /bin/python3
+2024-07-11 19:24:12.788 [info] Discovered env: /usr/bin/python2
+2024-07-11 19:24:12.788 [info] Discovered env: /home/myile/.venv/bin/python
+2024-07-11 19:24:12.788 [info] Discovered env: /bin/python2
+2024-07-11 19:24:13.047 [info] Locator Conda took 30.1649ms
+2024-07-11 19:24:13.228 [info] Locator Homebrew took 145.3µs
+2024-07-11 19:24:13.233 [info] Locator LinuxGlobalPython took 119.6853ms
+2024-07-11 19:24:13.248 [info] Locator PipEnv took 40.1µs
+2024-07-11 19:24:13.253 [info] Locator Poetry took 62.8139ms
+2024-07-11 19:24:13.254 [info] Locator PyEnv took 48.7811ms
+2024-07-11 19:24:13.259 [info] Locator Venv took 33.5µs
+2024-07-11 19:24:13.268 [info] Locator VirtualEnv took 300ns
+2024-07-11 19:24:13.272 [info] Locator VirtualEnvWrapper took 96.1µs
+2024-07-11 19:24:13.273 [info] Environments found using locators in 120.8736ms
+2024-07-11 19:24:13.274 [info] Environments in PATH found in 761.3182ms
+2024-07-11 19:24:13.274 [info] Environments in global virtual env paths found in 742.2µs
+2024-07-11 19:24:13.275 [info] Environments in custom search paths found in 113.1696ms
+2024-07-11 19:24:13.275 [info] Refresh completed in 761ms

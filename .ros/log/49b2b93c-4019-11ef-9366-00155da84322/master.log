@@ -1,0 +1,21 @@
+[rosmaster.main][INFO] 2024-07-12 15:38:02,961: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2024-07-12 15:38:02,961: Starting ROS Master Node
+[xmlrpc][INFO] 2024-07-12 15:38:02,963: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2024-07-12 15:38:02,963: Started XML-RPC server [http://DESKTOP-ATHRI65:11311/]
+[xmlrpc][INFO] 2024-07-12 15:38:02,963: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2024-07-12 15:38:02,963: Master initialized: port[11311], uri[http://DESKTOP-ATHRI65:11311/]
+[rosmaster.master][INFO] 2024-07-12 15:38:03,017: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2024-07-12 15:38:03,018: +PARAM [/roslaunch/uris/host_desktop_athri65__33085] by /roslaunch
+[rosmaster.master][INFO] 2024-07-12 15:38:03,043: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2024-07-12 15:38:03,043: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2024-07-12 15:38:03,076: +SERVICE [/rosout/get_loggers] /rosout http://DESKTOP-ATHRI65:42587/
+[rosmaster.master][INFO] 2024-07-12 15:38:03,076: +SERVICE [/rosout/set_logger_level] /rosout http://DESKTOP-ATHRI65:42587/
+[rosmaster.master][INFO] 2024-07-12 15:38:03,077: +PUB [/rosout_agg] /rosout http://DESKTOP-ATHRI65:42587/
+[rosmaster.master][INFO] 2024-07-12 15:38:03,079: +SUB [/rosout] /rosout http://DESKTOP-ATHRI65:42587/
+[rosmaster.master][INFO] 2024-07-12 15:43:21,699: -PUB [/rosout_agg] /rosout http://DESKTOP-ATHRI65:42587/
+[rosmaster.master][INFO] 2024-07-12 15:43:21,700: -SUB [/rosout] /rosout http://DESKTOP-ATHRI65:42587/
+[rosmaster.master][INFO] 2024-07-12 15:43:21,700: -SERVICE [/rosout/get_loggers] /rosout rosrpc://DESKTOP-ATHRI65:59023
+[rosmaster.master][INFO] 2024-07-12 15:43:21,701: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://DESKTOP-ATHRI65:59023
+[rosmaster.main][INFO] 2024-07-12 15:43:21,728: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2024-07-12 15:43:21,728: stopping master...
+[rospy.core][INFO] 2024-07-12 15:43:21,728: signal_shutdown [atexit]

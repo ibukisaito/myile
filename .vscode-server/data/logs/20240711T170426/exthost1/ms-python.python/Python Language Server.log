@@ -1,0 +1,51 @@
+2024-07-11 17:04:30.538 [info] (Client) Pylance async client (2024.7.1) started with python extension (2024.10.0)
+2024-07-11 17:04:31.032 [info] [Info  - 5:04:31 PM] (13649) Pylance language server 2024.7.1 (pyright version 1.1.369, commit 1168be71) starting
+2024-07-11 17:04:31.043 [info] [Info  - 5:04:31 PM] (13649) Server root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-11 17:04:31.043 [info] [Info  - 5:04:31 PM] (13649) Starting service instance "myile"
+2024-07-11 17:04:31.165 [info] [Info  - 5:04:31 PM] (13649) Setting pythonPath for service "myile": "/home/myile/.venv/bin/python"
+2024-07-11 17:04:31.165 [info] [Info  - 5:04:31 PM] (13649) Setting environmentName for service "myile": "3.8.10 (.venv venv)"
+2024-07-11 17:04:31.165 [info] [Info  - 5:04:31 PM] (13649) No include entries specified; assuming /home/myile
+2024-07-11 17:04:31.165 [info] [Info  - 5:04:31 PM] (13649) Auto-excluding **/node_modules
+2024-07-11 17:04:31.165 [info] [Info  - 5:04:31 PM] (13649) Auto-excluding **/__pycache__
+2024-07-11 17:04:31.165 [info] [Info  - 5:04:31 PM] (13649) Auto-excluding **/.*
+2024-07-11 17:04:31.181 [info] [Info  - 5:04:31 PM] (13649) Assuming Python version 3.8.10.final.0
+2024-07-11 17:04:31.230 [info] [Info  - 5:04:31 PM] (13649) Found 8 source files
+2024-07-11 17:04:31.488 [info] [Info  - 5:04:31 PM] (13649) Background analysis(1) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-11 17:04:31.492 [info] [Info  - 5:04:31 PM] (13649) Background analysis(1) started
+2024-07-11 17:04:31.744 [info] [Info  - 5:04:31 PM] (13649) Indexer background runner(2) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-11 17:04:31.744 [info] [Info  - 5:04:31 PM] (13649) Indexing(2) started
+2024-07-11 17:04:32.286 [info] [Info  - 5:04:32 PM] (13649) scanned(2) 361 files over 1 exec env
+2024-07-11 17:04:32.831 [info] [Info  - 5:04:32 PM] (13649) indexed(2) 143 files over 1 exec env
+2024-07-11 17:04:32.875 [info] [Info  - 5:04:32 PM] (13649) Indexing finished(2).
+2024-07-11 17:04:50.495 [info] [Info  - 5:04:50 PM] (13649) Found 8 source files
+2024-07-11 17:05:25.586 [info] [Info  - 5:05:25 PM] (13649) Indexer background runner(3) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (refresh)
+2024-07-11 17:05:25.586 [info] [Info  - 5:05:25 PM] (13649) Indexing(3) started
+2024-07-11 17:05:26.017 [info] [Info  - 5:05:26 PM] (13649) scanned(3) 385 files over 1 exec env
+2024-07-11 17:05:26.401 [info] [Info  - 5:05:26 PM] (13649) indexed(3) 148 files over 1 exec env
+2024-07-11 17:05:26.435 [info] [Info  - 5:05:26 PM] (13649) Indexing finished(3).
+2024-07-11 18:46:21.805 [info] [Info  - 6:46:21 PM] (13649) Found 14 source files
+2024-07-11 18:46:23.735 [info] [Info  - 6:46:23 PM] (13649) Found 19 source files
+2024-07-11 18:46:24.077 [info] [Info  - 6:46:24 PM] (13649) Found 19 source files
+2024-07-11 19:20:51.462 [info] [Info  - 7:20:51 PM] (13649) Indexer background runner(4) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (refresh)
+2024-07-11 19:20:51.462 [info] [Info  - 7:20:51 PM] (13649) Indexing(4) started
+2024-07-11 19:20:52.033 [info] [Info  - 7:20:52 PM] (13649) scanned(4) 385 files over 1 exec env
+2024-07-11 19:20:52.390 [info] [Info  - 7:20:52 PM] (13649) indexed(4) 148 files over 1 exec env
+2024-07-11 19:20:52.428 [info] [Info  - 7:20:52 PM] (13649) Indexing finished(4).
+2024-07-11 19:21:09.315 [info] [Info  - 7:21:09 PM] (13649) Indexer background runner(5) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (refresh)
+2024-07-11 19:21:09.316 [info] [Info  - 7:21:09 PM] (13649) Indexing(5) started
+2024-07-11 19:21:09.763 [info] [Info  - 7:21:09 PM] (13649) scanned(5) 385 files over 1 exec env
+2024-07-11 19:21:10.095 [info] [Info  - 7:21:10 PM] (13649) indexed(5) 148 files over 1 exec env
+2024-07-11 19:21:10.137 [info] [Info  - 7:21:10 PM] (13649) Indexing finished(5).
+2024-07-11 19:21:27.303 [info] [Info  - 7:21:27 PM] (13649) Indexer background runner(6) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (refresh)
+2024-07-11 19:21:27.303 [info] [Info  - 7:21:27 PM] (13649) Indexing(6) started
+2024-07-11 19:21:27.435 [info] [Info  - 7:21:27 PM] (13649) Indexing finished(6).
+2024-07-11 19:21:43.684 [info] [Info  - 7:21:43 PM] (13649) Indexer background runner(7) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (refresh)
+2024-07-11 19:21:43.684 [info] [Info  - 7:21:43 PM] (13649) Indexing(7) started
+2024-07-11 19:21:44.088 [info] [Info  - 7:21:44 PM] (13649) scanned(7) 385 files over 1 exec env
+2024-07-11 19:21:44.304 [info] [Info  - 7:21:44 PM] (13649) indexed(7) 148 files over 1 exec env
+2024-07-11 19:21:44.337 [info] [Info  - 7:21:44 PM] (13649) Indexing finished(7).
+2024-07-11 19:21:59.871 [info] [Info  - 7:21:59 PM] (13649) Indexer background runner(8) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (refresh)
+2024-07-11 19:21:59.871 [info] [Info  - 7:21:59 PM] (13649) Indexing(8) started
+2024-07-11 19:22:00.324 [info] [Info  - 7:22:00 PM] (13649) scanned(8) 385 files over 1 exec env
+2024-07-11 19:22:00.557 [info] [Info  - 7:22:00 PM] (13649) indexed(8) 148 files over 1 exec env
+2024-07-11 19:22:00.591 [info] [Info  - 7:22:00 PM] (13649) Indexing finished(8).

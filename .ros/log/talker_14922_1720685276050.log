@@ -1,0 +1,124 @@
+[rospy.client][INFO] 2024-07-11 17:07:56,066: init_node, name[/talker_14922_1720685276050], pid[14922]
+[xmlrpc][INFO] 2024-07-11 17:07:56,066: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2024-07-11 17:07:56,066: Started XML-RPC server [http://DESKTOP-ATHRI65:44313/]
+[rospy.impl.masterslave][INFO] 2024-07-11 17:07:56,066: _ready: http://DESKTOP-ATHRI65:44313/
+[rospy.init][INFO] 2024-07-11 17:07:56,067: ROS Slave URI: [http://DESKTOP-ATHRI65:44313/]
+[rospy.registration][INFO] 2024-07-11 17:07:56,067: Registering with master node http://localhost:11311
+[rospy.registration][INFO] 2024-07-11 17:07:56,067: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[xmlrpc][INFO] 2024-07-11 17:07:56,067: xml rpc node: starting XML-RPC server
+[rosout][ERROR] 2024-07-11 17:07:56,069: Unable to immediately register with master node [http://localhost:11311]: master may not be running yet. Will keep trying.
+[rospy.registration][INFO] 2024-07-11 17:07:56,270: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:56,471: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:56,672: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:56,873: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:57,074: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:57,275: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:57,477: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:57,678: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:57,879: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:58,081: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:58,282: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:58,483: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:58,685: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:58,886: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:59,087: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:59,289: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:59,490: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:59,691: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:07:59,892: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:00,094: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:00,294: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:00,495: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:00,696: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:00,898: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:01,099: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:01,300: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:01,500: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:01,701: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:01,902: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:02,104: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:02,305: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:02,507: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:02,708: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:02,909: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:03,111: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:03,312: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:03,513: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:03,715: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:03,916: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:04,117: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:04,319: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:04,520: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:04,721: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:04,923: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:05,124: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:05,325: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:05,527: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:05,728: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:05,929: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:06,131: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:06,332: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:06,533: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:06,735: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:06,936: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:07,137: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:07,339: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:07,540: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:07,741: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:07,942: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:08,144: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:08,345: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:08,546: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:08,748: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:08,949: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:09,151: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:09,352: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:09,553: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:09,754: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:09,955: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:10,156: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:10,358: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:10,559: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:10,761: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:10,962: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:11,164: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:11,365: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:11,566: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:11,767: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:11,968: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:12,169: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:12,370: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:12,571: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:12,772: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:12,974: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:13,175: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:13,376: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:13,577: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:13,778: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:13,980: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:14,181: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:14,383: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:14,584: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:14,785: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:14,986: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:15,187: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:15,388: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:15,589: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:15,790: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:15,991: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:16,192: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:16,393: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:16,595: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:16,796: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:16,997: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:17,199: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:17,400: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:17,602: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.registration][INFO] 2024-07-11 17:08:17,803: Registering publisher topic [/chatter] type [std_msgs/String] with master
+[rospy.core][INFO] 2024-07-11 17:08:17,948: signal_shutdown [signal-2]
+[rospy.registration][WARNING] 2024-07-11 17:08:17,949: cannot unregister with master due to network issues
+[rospy.init][INFO] 2024-07-11 17:08:18,105: registered with master
+[rospy.core][WARNING] 2024-07-11 17:08:18,105: add_shutdown_hook called after shutdown
+[rospy.impl.masterslave][INFO] 2024-07-11 17:08:18,105: already shutdown
+[rospy.client][WARNING] 2024-07-11 17:08:18,105: aborting node initialization as shutdown has been triggered
+[rospy.core][INFO] 2024-07-11 17:08:18,175: signal_shutdown [atexit]

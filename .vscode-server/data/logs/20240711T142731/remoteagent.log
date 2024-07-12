@@ -1,0 +1,43 @@
+2024-07-11 14:27:31.348 [info] 
+
+
+
+
+2024-07-11 14:27:31.354 [info] Extension host agent started.
+2024-07-11 14:27:31.385 [info] Started initializing default profile extensions in extensions installation folder. file:///home/myile/.vscode-server/extensions
+2024-07-11 14:27:31.402 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/myile/.vscode-server/extensions
+2024-07-11 14:27:31.546 [info] [127.0.0.1][46a93d51][ManagementConnection] New connection established.
+2024-07-11 14:27:31.584 [info] Installing extensions...
+2024-07-11 14:27:31.703 [info] [127.0.0.1][391699ba][ExtensionHostConnection] New connection established.
+2024-07-11 14:27:31.712 [info] [127.0.0.1][391699ba][ExtensionHostConnection] <271> Launched Extension Host Process.
+2024-07-11 14:27:32.155 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2024-07-11 14:27:32.156 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2024-07-11 14:27:32.165 [info] Installing extension: ms-ceintl.vscode-language-pack-ja {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/myile/.vscode-server/extensions/extensions.json","external":"file:///home/myile/.vscode-server/extensions/extensions.json","path":"/home/myile/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"}}
+2024-07-11 14:27:33.448 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ja: Success. Executed: true. Duration: 864ms.
+2024-07-11 14:27:33.534 [info] Extracted extension to file:///home/myile/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.91.2024071009: ms-ceintl.vscode-language-pack-ja
+2024-07-11 14:27:33.545 [info] Renamed to /home/myile/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.91.2024071009
+2024-07-11 14:27:33.554 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2024-07-11 14:27:33.572 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja file:///home/myile/.vscode-server/extensions/extensions.json
+2024-07-11 14:27:33.572 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.91.2024071009 was successfully installed.
+2024-07-11 14:29:29.116 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-07-11 14:53:04.317 [info] Getting Manifest... ms-python.python
+2024-07-11 14:53:04.367 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/myile/.vscode-server/extensions/extensions.json","external":"file:///home/myile/.vscode-server/extensions/extensions.json","path":"/home/myile/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"}}
+2024-07-11 14:53:04.536 [info] Getting Manifest... ms-python.vscode-pylance
+2024-07-11 14:53:04.558 [info] Getting Manifest... ms-python.debugpy
+2024-07-11 14:53:04.577 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/myile/.vscode-server/extensions/extensions.json","external":"file:///home/myile/.vscode-server/extensions/extensions.json","path":"/home/myile/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-11 14:53:04.578 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/myile/.vscode-server/extensions/extensions.json","external":"file:///home/myile/.vscode-server/extensions/extensions.json","path":"/home/myile/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-11 14:53:06.569 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 534ms.
+2024-07-11 14:53:08.135 [info] Extracted extension to file:///home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64: ms-python.python
+2024-07-11 14:53:08.143 [info] Renamed to /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64
+2024-07-11 14:53:08.405 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 576ms.
+2024-07-11 14:53:08.765 [info] Extracted extension to file:///home/myile/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-x64: ms-python.debugpy
+2024-07-11 14:53:08.776 [info] Renamed to /home/myile/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-x64
+2024-07-11 14:53:09.720 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 738ms.
+2024-07-11 14:53:13.907 [info] Extracted extension to file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1: ms-python.vscode-pylance
+2024-07-11 14:53:13.930 [info] Renamed to /home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1
+2024-07-11 14:53:13.950 [info] Extension installed successfully: ms-python.python file:///home/myile/.vscode-server/extensions/extensions.json
+2024-07-11 14:53:13.950 [info] Extension installed successfully: ms-python.debugpy file:///home/myile/.vscode-server/extensions/extensions.json
+2024-07-11 14:53:13.950 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/myile/.vscode-server/extensions/extensions.json
+2024-07-11 16:57:21.069 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-07-11 17:04:17.414 [info] [127.0.0.1][46a93d51][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-07-11 17:04:17.533 [info] [127.0.0.1][391699ba][ExtensionHostConnection] <271> Extension Host Process exited with code: 0, signal: null.

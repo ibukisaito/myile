@@ -1,0 +1,19 @@
+2024-07-12 15:11:46.626 [info] (Client) Pylance async client (2024.7.1) started with python extension (2024.10.0)
+2024-07-12 15:11:46.996 [info] [Info  - 3:11:46 PM] (909) Pylance language server 2024.7.1 (pyright version 1.1.369, commit 1168be71) starting
+2024-07-12 15:11:46.996 [info] [Info  - 3:11:46 PM] (909) Server root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-12 15:11:46.996 [info] [Info  - 3:11:46 PM] (909) Starting service instance "myile"
+2024-07-12 15:11:47.031 [info] [Info  - 3:11:47 PM] (909) Setting pythonPath for service "myile": "/home/myile/.venv/bin/python"
+2024-07-12 15:11:47.031 [info] [Info  - 3:11:47 PM] (909) Setting environmentName for service "myile": "3.8.10 (.venv venv)"
+2024-07-12 15:11:47.034 [info] [Info  - 3:11:47 PM] (909) No include entries specified; assuming /home/myile
+2024-07-12 15:11:47.035 [info] [Info  - 3:11:47 PM] (909) Auto-excluding **/node_modules
+2024-07-12 15:11:47.035 [info] [Info  - 3:11:47 PM] (909) Auto-excluding **/__pycache__
+2024-07-12 15:11:47.035 [info] [Info  - 3:11:47 PM] (909) Auto-excluding **/.*
+2024-07-12 15:11:47.053 [info] [Info  - 3:11:47 PM] (909) Assuming Python version 3.8.10.final.0
+2024-07-12 15:11:47.118 [info] [Info  - 3:11:47 PM] (909) Found 19 source files
+2024-07-12 15:11:47.416 [info] [Info  - 3:11:47 PM] (909) Background analysis(1) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-12 15:11:47.418 [info] [Info  - 3:11:47 PM] (909) Background analysis(1) started
+2024-07-12 15:11:47.593 [info] [Info  - 3:11:47 PM] (909) Indexer background runner(2) root directory: file:///home/myile/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-12 15:11:47.593 [info] [Info  - 3:11:47 PM] (909) Indexing(2) started
+2024-07-12 15:11:48.383 [info] [Info  - 3:11:48 PM] (909) scanned(2) 385 files over 1 exec env
+2024-07-12 15:11:48.760 [info] [Info  - 3:11:48 PM] (909) indexed(2) 148 files over 1 exec env
+2024-07-12 15:11:48.804 [info] [Info  - 3:11:48 PM] (909) Indexing finished(2).

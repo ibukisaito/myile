@@ -1,0 +1,6 @@
+devel_space: /home/myile/catkin_ws/devel
+install: false
+install_space: /home/myile/catkin_ws/install
+profile: default
+source_space: /home/myile/catkin_ws/src
+workspace: /home/myile/catkin_ws

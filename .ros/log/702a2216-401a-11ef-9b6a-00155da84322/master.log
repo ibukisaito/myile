@@ -1,0 +1,14 @@
+[rosmaster.main][INFO] 2024-07-12 15:46:16,947: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2024-07-12 15:46:16,947: Starting ROS Master Node
+[xmlrpc][INFO] 2024-07-12 15:46:16,948: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2024-07-12 15:46:16,948: Started XML-RPC server [http://DESKTOP-ATHRI65:11311/]
+[xmlrpc][INFO] 2024-07-12 15:46:16,948: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2024-07-12 15:46:16,948: Master initialized: port[11311], uri[http://DESKTOP-ATHRI65:11311/]
+[rosmaster.master][INFO] 2024-07-12 15:46:17,015: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2024-07-12 15:46:17,016: +PARAM [/roslaunch/uris/host_desktop_athri65__43519] by /roslaunch
+[rosmaster.master][INFO] 2024-07-12 15:46:17,041: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2024-07-12 15:46:17,041: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2024-07-12 15:46:17,044: +SERVICE [/rosout/get_loggers] /rosout http://DESKTOP-ATHRI65:38373/
+[rosmaster.master][INFO] 2024-07-12 15:46:17,044: +SERVICE [/rosout/set_logger_level] /rosout http://DESKTOP-ATHRI65:38373/
+[rosmaster.master][INFO] 2024-07-12 15:46:17,045: +PUB [/rosout_agg] /rosout http://DESKTOP-ATHRI65:38373/
+[rosmaster.master][INFO] 2024-07-12 15:46:17,048: +SUB [/rosout] /rosout http://DESKTOP-ATHRI65:38373/

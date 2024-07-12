@@ -1,0 +1,169 @@
+2024-07-12 15:11:46.280 [info] ログ レベル: Info
+2024-07-12 15:11:46.280 [info] Git の検証が検出されました: "git"
+2024-07-12 15:11:46.280 [info] "git" から Git "2.25.1" を使用しています
+2024-07-12 15:11:46.280 [info] > git rev-parse --show-toplevel [5ms]
+2024-07-12 15:11:46.280 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.280 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-12 15:11:46.280 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.285 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:11:46.285 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.288 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:11:46.288 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.290 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-12 15:11:46.290 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.293 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:11:46.293 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.296 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:11:46.296 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.298 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:11:46.298 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.301 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-12 15:11:46.301 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.303 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:11:46.306 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-07-12 15:11:46.313 [info] Open repository: /home/myile/.nvm
+2024-07-12 15:11:46.357 [info] > git rev-parse --show-toplevel [38ms]
+2024-07-12 15:11:46.357 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.357 [info] > git config --get commit.template [41ms]
+2024-07-12 15:11:46.364 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-12 15:11:46.364 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.367 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [4ms]
+2024-07-12 15:11:46.369 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-12 15:11:46.369 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.372 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-12 15:11:46.372 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.376 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-12 15:11:46.376 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.379 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-12 15:11:46.379 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.381 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-12 15:11:46.381 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.384 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:11:46.384 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.388 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:11:46.388 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.391 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:11:46.391 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:11:46.438 [info] > git status -z -uall [68ms]
+2024-07-12 15:11:46.446 [info] > git config --get commit.template [1ms]
+2024-07-12 15:11:46.451 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [0ms]
+2024-07-12 15:11:46.465 [info] > git status -z -uall [12ms]
+2024-07-12 15:11:46.858 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-12 15:13:29.801 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-12 15:13:29.801 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:14:59.264 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-12 15:14:59.264 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:17:19.661 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:17:19.661 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:17:22.279 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:17:22.279 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:17:23.272 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-12 15:17:23.272 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:17:34.653 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-12 15:17:34.653 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:18:20.388 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:18:20.389 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:20:02.683 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-12 15:20:02.688 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-07-12 15:20:02.692 [info] Open repository: /home/myile/rowma/rowma_ros
+2024-07-12 15:20:02.700 [info] > git config --get commit.template [2ms]
+2024-07-12 15:20:02.709 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-07-12 15:20:02.714 [warning] ENOENT: no such file or directory, open '/home/myile/rowma/rowma_ros/.git/refs/remotes/origin/master'
+2024-07-12 15:20:02.715 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-07-12 15:20:02.725 [info] > git status -z -uall [6ms]
+2024-07-12 15:20:02.739 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2024-07-12 15:20:02.745 [info] > git config --get commit.template [6ms]
+2024-07-12 15:20:02.746 [info] > git config --local branch.master.vscode-merge-base [3ms]
+2024-07-12 15:20:02.757 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-12 15:20:02.757 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [6ms]
+2024-07-12 15:20:02.766 [warning] ENOENT: no such file or directory, open '/home/myile/rowma/rowma_ros/.git/refs/remotes/origin/master'
+2024-07-12 15:20:02.767 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-07-12 15:20:02.771 [info] > git merge-base refs/heads/master refs/remotes/origin/master [9ms]
+2024-07-12 15:20:02.775 [info] > git status -z -uall [4ms]
+2024-07-12 15:20:02.786 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-07-12 15:20:02.791 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [17ms]
+2024-07-12 15:20:02.796 [info] > git config --local branch.master.vscode-merge-base [6ms]
+2024-07-12 15:20:02.801 [info] > git diff --name-status -z --diff-filter=ADMR 0eae3a720221f09e7c3de8609295f0a1ac5c70e6...refs/remotes/origin/master [6ms]
+2024-07-12 15:20:02.802 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [1ms]
+2024-07-12 15:20:03.018 [info] > git show --textconv :scripts/rowma [4ms]
+2024-07-12 15:20:03.019 [info] > git ls-files --stage -- /home/myile/rowma/rowma_ros/scripts/rowma [1ms]
+2024-07-12 15:20:03.024 [info] > git cat-file -s a24ae7177daafb08ff9436ec53fcb3351db3e623 [1ms]
+2024-07-12 15:20:03.253 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-12 15:20:08.898 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-12 15:20:08.898 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:20:14.342 [info] > git show --textconv :scripts/rowma [4ms]
+2024-07-12 15:20:14.343 [info] > git ls-files --stage -- /home/myile/rowma/rowma_ros/scripts/rowma [1ms]
+2024-07-12 15:20:14.347 [info] > git cat-file -s a24ae7177daafb08ff9436ec53fcb3351db3e623 [1ms]
+2024-07-12 15:20:39.835 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-12 15:20:42.026 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-12 15:21:05.749 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:21:05.749 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:21:08.100 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:21:08.100 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:21:21.931 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:21:21.931 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:23:41.869 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-12 15:23:41.869 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:23:42.739 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:23:42.739 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:24:12.765 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:24:12.765 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:52:29.062 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:52:29.062 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:53:00.076 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-12 15:53:00.076 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-12 15:53:05.777 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-12 15:53:05.782 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-07-12 15:53:05.785 [info] Open repository: /home/myile
+2024-07-12 15:53:05.795 [info] No remotes found in the git config file.
+2024-07-12 15:53:05.795 [info] > git config --get commit.template [5ms]
+2024-07-12 15:53:05.795 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-12 15:53:05.795 [warning] No such branch: master.
+2024-07-12 15:53:05.858 [info] > git status -z -uall [60ms] (cancelled)
+2024-07-12 15:53:05.860 [info] > git check-ignore -v -z --stdin [5ms]
+2024-07-12 15:53:06.105 [info] > git show --textconv :catkin_ws/src/chatter/scripts/talker [3ms]
+2024-07-12 15:53:06.106 [info] > git ls-files --stage -- /home/myile/catkin_ws/src/chatter/scripts/talker [1ms]
+2024-07-12 15:53:06.378 [info] > git check-ignore -v -z --stdin [10ms]
+2024-07-12 15:53:06.378 [info] > git check-ignore -v -z --stdin [6ms]
+2024-07-12 15:53:06.378 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-12 15:53:15.706 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [62ms]
+2024-07-12 15:53:15.706 [warning] No such branch: master.
+2024-07-12 15:53:15.708 [info] > git config --get commit.template [3ms]
+2024-07-12 15:53:15.712 [info] No remotes found in the git config file.
+2024-07-12 15:53:15.719 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-07-12 15:53:15.719 [warning] No such branch: master.
+2024-07-12 15:53:16.356 [info] > git status -z -uall [633ms] (cancelled)
+2024-07-12 15:53:16.356 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-12 15:53:16.823 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-12 15:53:16.873 [info] No remotes found in the git config file.
+2024-07-12 15:53:16.873 [info] > git config --get commit.template [5ms]
+2024-07-12 15:53:16.873 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-12 15:53:16.873 [warning] No such branch: master.
+2024-07-12 15:53:16.918 [info] > git status -z -uall [41ms] (cancelled)
+2024-07-12 15:53:16.920 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-12 15:53:17.126 [info] > git show --textconv :catkin_ws/src/chatter/scripts/talker [6ms]
+2024-07-12 15:53:17.126 [info] > git ls-files --stage -- /home/myile/catkin_ws/src/chatter/scripts/talker [1ms]
+2024-07-12 15:53:17.561 [info] > git check-ignore -v -z --stdin [9ms]
+2024-07-12 15:53:17.562 [info] > git check-ignore -v -z --stdin [5ms]
+2024-07-12 15:53:17.562 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-12 15:53:20.054 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [49ms]
+2024-07-12 15:53:20.054 [warning] No such branch: master.
+2024-07-12 15:53:21.453 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [47ms]
+2024-07-12 15:53:21.453 [warning] No such branch: master.
+2024-07-12 15:53:22.057 [info] > git show --textconv :.gitignore [6ms]
+2024-07-12 15:53:22.058 [info] > git ls-files --stage -- /home/myile/.gitignore [2ms]
+2024-07-12 15:53:22.124 [info] No remotes found in the git config file.
+2024-07-12 15:53:22.125 [info] > git config --get commit.template [5ms]
+2024-07-12 15:53:22.125 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-12 15:53:22.125 [warning] No such branch: master.
+2024-07-12 15:53:22.231 [info] > git status -z -uall [102ms] (cancelled)
+2024-07-12 15:53:22.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [50ms]
+2024-07-12 15:53:22.232 [warning] No such branch: master.
+2024-07-12 15:53:22.784 [info] > git check-ignore -v -z --stdin [5ms]
+2024-07-12 15:53:22.785 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-12 15:53:33.003 [info] > git show --textconv :.gitconfig [4ms]
+2024-07-12 15:53:33.004 [info] > git ls-files --stage -- /home/myile/.gitconfig [1ms]
+2024-07-12 15:53:35.446 [info] > git show --textconv :.gitignore [5ms]
+2024-07-12 15:53:35.447 [info] > git ls-files --stage -- /home/myile/.gitignore [1ms]
+2024-07-12 15:53:35.880 [info] > git show --textconv :.profile [4ms]
+2024-07-12 15:53:35.880 [info] > git ls-files --stage -- /home/myile/.profile [1ms]

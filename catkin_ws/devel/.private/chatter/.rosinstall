@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/myile/catkin_ws/devel/.private/chatter/setup.sh

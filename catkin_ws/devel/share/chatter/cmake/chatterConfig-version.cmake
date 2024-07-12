@@ -1,0 +1,1 @@
+/home/myile/catkin_ws/devel/.private/chatter/share/chatter/cmake/chatterConfig-version.cmake

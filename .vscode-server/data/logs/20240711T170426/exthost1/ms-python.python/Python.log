@@ -1,0 +1,53 @@
+2024-07-11 17:04:29.523 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-11 17:04:29.523 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-11 17:04:29.523 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-07-11 17:04:29.523 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-11 17:04:29.523 [info] Experiment 'pythonTestAdapter' is active
+2024-07-11 17:04:29.523 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/home/myile/.pixi/envs'
+	at Object.readdirSync (node:fs:1515:26)
+	at /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574598
+	at /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574789
+	at Array.map (<anonymous>)
+	at d.initWatchers (/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574507)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async d.ensureWatchersReady (/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:536827)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/myile/.pixi/envs'
+}
+2024-07-11 17:04:29.523 [error] Dir "/home/myile/.pixi/envs" is not watchable (directory does not exist)
+2024-07-11 17:04:29.523 [info] Default formatter is set to null for workspace /home/myile
+2024-07-11 17:04:29.523 [info] Python interpreter path: ./.venv/bin/python
+2024-07-11 17:04:29.530 [info] > pyenv which python
+2024-07-11 17:04:29.530 [info] cwd: .
+2024-07-11 17:04:29.815 [info] > pixi --version
+2024-07-11 17:04:29.816 [error] [Error: spawn pixi EACCES
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-07-11 17:04:29.816 [warning] could not find a pixi interpreter for the interpreter at /home/myile/.venv/bin/python
+2024-07-11 17:04:30.038 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariables.py
+2024-07-11 17:04:30.038 [info] shell: bash
+2024-07-11 17:04:30.078 [info] > /bin/python2 ./.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariables.py
+2024-07-11 17:04:30.078 [info] shell: bash
+2024-07-11 17:04:30.125 [info] Setting environment variable VIRTUAL_ENV in collection to /home/myile/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-11 17:04:30.125 [info] Prepending environment variable PS1 in collection with (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-07-11 17:04:30.125 [info] Prepending environment variable PATH in collection with /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash:/home/myile/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-11 17:04:30.126 [info] Send text to terminal: /bin/python2 /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariablesToFile.py /home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-07-11 17:04:31.061 [info] Starting Pylance language server.
+2024-07-11 17:05:00.127 [error] Failed to initialize deactivate script /bin/bash [Error: "/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash/envVars.txt" file not created
+	at Timeout.<anonymous> (/home/myile/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:281720)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)]
+2024-07-11 17:07:55.547 [info] CreateEnv Trigger - Skipping for /home/myile/catkin_ws/src/chatter/scripts/talker
+2024-07-11 17:07:55.581 [info] Send text to terminal: /home/myile/.venv/bin/python /home/myile/catkin_ws/src/chatter/scripts/talker
+2024-07-11 17:08:23.726 [info] Send text to terminal: /home/myile/.venv/bin/python /home/myile/catkin_ws/src/chatter/scripts/talker
+2024-07-11 17:08:26.816 [info] Send text to terminal: /home/myile/.venv/bin/python /home/myile/catkin_ws/src/chatter/scripts/listener
+2024-07-11 17:08:30.804 [info] Send text to terminal: /home/myile/.venv/bin/python /home/myile/catkin_ws/src/chatter/scripts/listener
